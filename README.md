@@ -1,2 +1,2 @@
 # Mobile
-Android(java&lt;--->kotlin)&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;IOS(Objective-C&lt;--->Swift )
+Android(Java&lt;--->Kotlin)&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;IOS(Objective-C&lt;--->Swift )
